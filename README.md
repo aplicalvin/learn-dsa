@@ -6,6 +6,7 @@ This repository contain all of my task in college, my own learning, etc. about D
 
 1. Bubble Sort
 2. Selection Sort
+3. Insertion Sort
 
 ### Last update at April'16 2024
 
